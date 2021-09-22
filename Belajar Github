@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabdah Nur Ulfa</title>
+    <link rel="stylesheet" href="///e:/New Project/stylesheet.css">
+    
+</head>
+<body>
+    <div class="bungkus">
+          <h1><marquee behavior="alternate" style="font-family:aqua; font-size:36px; color: white;" bgcolor="blue">Data Diri</marquee></h1>
+        <table>
+            <tr>
+                <tr>
+                    <td rowspan="8"width="100px"><img src="///e:/New Project/fotoku.jpeg" alt=""width="200px" style="display: block;
+                        border-radius: 5%; border-color: white; margin-right: 30px; border:2px; "></td>
+                </tr>
+                <tr>
+                    <td><b>Nama</b></td>
+                    <td>:</td>
+                    <td> Sabdah Nur Ulfa</td>
+                </tr>
+            <tr>
+                <td><b>NIM</b></td>
+                <td>:</td>
+                <td>19610031</td>
+            </tr>
+            <tr>
+                <td><b>Alamat</b></td>
+                <td>:</td>
+                <td>Jalan Sultan Agung Rt/Rw:09/01 Sepanjang-Gondanglegi Kab. Malang </td>
+            </tr>
+            <tr>
+                <td><b>Email</b></td>
+                <td>:</td>
+                <td><a href="mailto:kontak@ulfasabda13.gmail.com">kontak@ulfasabda13.gmail.com</a></td>
+            </tr>
+            <tr>
+                <td><b>Hobi</b></td>
+                <td>:</td>
+                <td>Mendengarkan musik, memasak, dan menonton film</td>
+            </tr>
+        </table>
+    </div>
+    <div class="bungkus" align="center">
+        <h2 align="center"> Get<span> In Touch</span></h2>
+        <a class="ikon"href="https://instagram.com/sabdahnurulfa"><img src="///e:/New Project/ikon/ikon instagram.png"alt="ikon instagram" width="40px"></a>
+        <a class="ikon"href="https://facebook.com/sabdahnurulfa"><img src="///e:/New Project/ikon/facebook.png" alt="" width="40px"></a>
+        <a class="ikon"href="https://wa.me/628143423904"><img src="///e:/New Project/ikon/ikonwhatsapp.png" alt="" width="40px"></a>
+    </div>
+    <footer>
+        Created with love by <span> ME</span>
+    </footer>
+</body>
+</html>
